@@ -1,12 +1,21 @@
 ## Welcome to GitHub Pages
 
 <details>
-<summary>Заголовок</summary>
-
-| Foo | Bar |
-| --- | --- |
-| 111 | 222 |
-
+  <summary>Заголовок</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Foo</th>
+        <th>Bar</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>111</td>
+        <td>222</td>
+      </tr>
+    </tbody>
+  </table>
 </details>
 
 You can use the [editor on GitHub](https://github.com/irinasrd/dolfin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
