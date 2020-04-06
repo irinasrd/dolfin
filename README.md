@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+<details>
+<summary>Заголовок</summary>
+| Foo | Bar |
+| --- | --- |
+| 111 | 222 |
+</details>
+
 You can use the [editor on GitHub](https://github.com/irinasrd/dolfin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
